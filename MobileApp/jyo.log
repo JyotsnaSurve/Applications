@@ -1,0 +1,32 @@
+2017-09-25 10:25:45,156 INFO [root] - Executed Successfully
+2017-09-25 10:29:27,229 INFO [root] - Executed Successfully
+2017-09-25 10:30:31,680 INFO [root] - Executed Successfully
+2017-09-25 10:30:55,930 INFO [root] - Executed Successfully
+2017-09-25 10:30:55,930 INFO [root] - Executed Successfully
+2017-09-25 10:40:55,193 INFO [root] - Executed Successfully
+2017-09-25 10:40:55,193 INFO [root] - Executed Successfully
+2017-09-25 10:45:21,767 ERROR [root] - Exception OccuredListener refused the connection with the following error:
+ORA-12518, TNS:listener could not hand off client connection
+ 
+2017-09-25 10:45:21,783 INFO [root] - Executed Successfully
+2017-09-25 10:47:55,731 INFO [root] - Executed Successfully
+2017-09-25 10:50:59,035 INFO [root] - Executed Successfully
+2017-09-25 11:31:39,085 ERROR [root] - Exception OccuredListener refused the connection with the following error:
+ORA-12518, TNS:listener could not hand off client connection
+ 
+2017-09-25 11:31:39,085 INFO [root] - Executed Successfully
+2017-09-25 12:02:17,886 INFO [root] - Executed Successfully
+2017-09-25 12:02:17,886 INFO [root] - Executed Successfully
+2017-09-25 12:04:57,747 ERROR [root] - Exception OccuredInvalid column index
+2017-09-25 12:04:57,747 INFO [root] - Executed Successfully
+2017-09-25 12:07:01,195 INFO [root] - Executed Successfully
+2017-09-25 12:07:24,335 ERROR [root] - Exception OccuredInvalid column index
+2017-09-25 12:07:24,335 INFO [root] - Executed Successfully
+2017-09-25 12:15:40,987 ERROR [root] - Exception OccuredInvalid column index
+2017-09-25 12:15:40,987 INFO [root] - Executed Successfully
+2017-09-25 12:16:58,868 INFO [root] - Executed Successfully
+2017-09-25 12:24:13,198 ERROR [root] - Exception OccuredInvalid column index
+2017-09-25 12:24:13,198 INFO [root] - Executed Successfully UI
+2017-09-25 12:31:52,926 ERROR [root] - Exception OccuredInvalid column index
+2017-09-25 12:31:52,926 INFO [root] - Executed Successfully UI
+2017-09-25 12:34:57,015 INFO [root] - Executed Successfully
