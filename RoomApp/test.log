@@ -1,0 +1,13 @@
+2017-09-26 13:51:00,379 INFO [root] - Executed Successfully
+2017-09-26 13:51:44,645 ERROR [root] - Exception OccuredInvalid column index
+2017-09-26 14:29:21,586 INFO [root] - Executed Successfully
+2017-09-26 14:29:51,983 ERROR [root] - Exception Occured
+2017-09-26 14:35:08,765 ERROR [root] - Exception Occured
+2017-09-26 14:37:21,514 ERROR [root] - Exception OccuredInvalid column index
+2017-09-26 15:31:31,535 ERROR [root] - Exception Occured Listener refused the connection with the following error:
+ORA-12518, TNS:listener could not hand off client connection
+ 
+2017-09-26 15:37:20,760 ERROR [root] - Exception Occured Listener refused the connection with the following error:
+ORA-12518, TNS:listener could not hand off client connection
+ 
+2017-09-26 15:42:34,619 ERROR [root] - Exception Occured Invalid column index
